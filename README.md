@@ -1,1 +1,3 @@
 # Social-Distancing-and-Face-Mask-Detection
+
+Implement Social Distancing Detector and Mask Detector where the user can switch between mask detection and social distance detection using Tkinter, OpenCV, YoLo V4, Python, Deep Learning which monitor the Peoples in Real-Time using live feed camera in OpenCV. It will count the number of people and detect the distance between people in real-time. It will send an alert(audio) if the people are way over the social distancing limits. Implement a Mask detector that accepts feed from the live camera that determines whether a person has to wear a mask or not. It will send alert audio if the person did not wear a mask. 
