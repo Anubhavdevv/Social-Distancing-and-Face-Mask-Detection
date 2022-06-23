@@ -19,3 +19,4 @@ Implement social distancing detector and mask detector using OpenCV(Python), Dee
  
 * User is able to switch between mask detection and social distancing detector
 
+Link: [Youtube](https://www.youtube.com/watch?v=aG-gc_i9qPg)
