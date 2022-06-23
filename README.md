@@ -18,3 +18,4 @@ Implement social distancing detector and mask detector using OpenCV(Python), Dee
   - Accept feed from live cam.
  
 * User is able to switch between mask detection and social distancing detector
+
